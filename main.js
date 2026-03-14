@@ -78,7 +78,7 @@ let = amaliyot{
 let = one;
 let = two;
 let = jonat(one && two);
-// let = one && two && jonat;
+let = one && two && jonat;
 }
 console.log(one && two && jonat);
 
