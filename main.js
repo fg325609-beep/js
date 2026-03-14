@@ -63,3 +63,26 @@
 // console.log(arr);
 // 1-elementni qaytarib bervooti
     
+// let opa = { age:46, name:umida, hoobies:homewoork, location:hasanboy,}
+   
+// console.log(opa);
+
+// let umida ={
+//     neme:"umida",
+//     age: 46,
+//     hobies:"homework",
+// } 
+// console.log(Object.keys(umida));
+
+let = amaliyot{
+let = one;
+let = two;
+let = jonat(one && two);
+// let = one && two && jonat;
+}
+console.log(one && two && jonat);
+
+
+
+
+
