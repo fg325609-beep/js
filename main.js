@@ -72,7 +72,20 @@
 //     age: 46,
 //     hobies:"homework",
 // } 
-// console.log(Object.keys(umida));
+// console.log(Object.values(umida.hobies));
+
+// let umida={}
+// umida.name = "umida",
+// umida.age = 46,
+// umida.hobias = ["homework, shirinlik pishirish"]  
+
+// console.log(umida);
+
+
+
+
+
+
 
 let = amaliyot{
 let = one;
@@ -80,7 +93,7 @@ let = two;
 let = jonat(one && two);
 let = one && two && jonat;
 }
-console.log(one && two && jonat);
+console.log( amaliyot(one && two && jonat));
 
 
 
