@@ -98,13 +98,13 @@
 
 
 
-let = amaliyot{
-let = one;
-let = two;
-let = jonat(one && two);
-let = one && two && jonat;
-}
-console.log( amaliyot(one && two && jonat));
+// let = amaliyot{
+// let = one;
+// let = two;
+// let = jonat(one && two);
+// let = one && two && jonat;
+// }
+// console.log( amaliyot(one && two && jonat));
 
 
 
