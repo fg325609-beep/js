@@ -108,5 +108,25 @@
 
 
 
+let one = document.getElementById("one");
+let two = document.getElementById("two");
+let jonat = document.getElementById("jonat");
+const text = document.getElementById("text");
+
+const userName = "farhod";
+const emailim = "ddd@123dd";
+
+jonat.addEventListener("click",function(e){
+    e.preventDefault()
+   if (one.value === userName && userName.value === emailim) {
+    text.textContent = "royhatdan otingiz"
+
+    
+   } else {
+    text.textContent = "email yoki username notog'ri"
+   }
+})
+
+
 
 
